@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662303315 source:c:\users\anil\desktop\programs\remove all occurence char in str\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662295336 source:c:\users\anil\desktop\programs\copy one str to other\main.c
+	<stdio.h>
+	<stdlib.h>
+

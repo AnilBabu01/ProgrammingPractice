@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662304875 source:c:\users\anil\desktop\programs\reveserse string\main.c
+	<stdio.h>
+	<string.h>
+

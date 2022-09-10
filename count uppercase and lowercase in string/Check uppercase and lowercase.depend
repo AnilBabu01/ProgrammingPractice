@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662293808 source:c:\users\anil\desktop\programs\check uppercase and lowercase\main.c
+	<stdio.h>
+	<stdlib.h>
+

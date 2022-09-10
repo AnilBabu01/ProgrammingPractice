@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662288580 source:c:\users\anil\desktop\programs\find occurrencer of a char\main.c
+	<stdio.h>
+	<stdlib.h>
+

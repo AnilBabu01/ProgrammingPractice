@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662338536 source:c:\users\anil\desktop\programs\print first char of each word\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

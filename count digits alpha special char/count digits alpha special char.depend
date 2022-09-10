@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662341510 source:c:\users\anil\desktop\programs\count digits alpha special char\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

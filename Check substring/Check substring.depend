@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662643125 source:c:\users\anil\desktop\programs\check substring\main.c
+	<stdio.h>
+	<stdlib.h>
+

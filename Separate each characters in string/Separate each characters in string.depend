@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662339598 source:c:\users\anil\desktop\programs\separate each characters in string\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

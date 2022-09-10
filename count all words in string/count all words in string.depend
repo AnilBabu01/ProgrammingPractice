@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662340788 source:c:\users\anil\desktop\programs\count all words in string\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

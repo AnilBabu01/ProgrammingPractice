@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662306063 source:c:\users\anil\desktop\programs\lower to upper ans upper to lower\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

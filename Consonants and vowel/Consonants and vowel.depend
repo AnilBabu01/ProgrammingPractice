@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662350153 source:c:\users\anil\desktop\programs\consonants and vowel\main.c
+	<stdio.h>
+	<stdlib.h>
+
