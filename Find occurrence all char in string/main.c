@@ -29,15 +29,6 @@ int getLength(char str[])
                 }
 
         }
-
-
-
-
-
-
-
-
-
 }
 int main()
 {
