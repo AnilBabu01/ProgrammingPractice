@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Our Funky HTML Page</title>
+    <meta name="description" content="Our first page" />
+    <meta name="keywords" content="html tutorial template" />
+    <script>
+      var finalbill;
+      class User {
+        bill() {}
+        latte() {
+          console.log("Welcome to Latte");
+          var quantity = window.prompt("Please Enter the quantity of coffee ");
+          finalbill = (100 + 125 + 150) * quantity;
+          console.log(" Now your bill is" + finalbill);
+        }
+
+        cappuccino() {
+          console.log("Welcome to Cappuccino");
+          var quantity = window.prompt("Please Enter the quantity of coffee ");
+          finalbill = (100 + 125 + 150) * quantity;
+          console.log("Now  your bill is" + finalbill);
+        }
+
+        espresso() {
+          console.log("Welcome to Espresso");
+          var quantity = window.prompt("Please Enter the quantity of coffee ");
+          finalbill = (100 + 125 + 150) * quantity;
+          console.log("Now your bill is" + finalbill);
+        }
+        displayMenu() {
+          console.log(
+            "Product/Add-on           Milk         Cream         Latte"
+          );
+          console.log(
+            "Espresso                  60            75           100"
+          );
+          console.log(
+            "Cappuccino                80            90           125"
+          );
+          console.log(
+            "Latte                     100           125          150"
+          );
+          var name = window.prompt("Please Enter your choice ");
+          console.log("your choice is " + name);
+
+          return name;
+        }
+      }
+
+      let obj = new User();
+
+      let result = obj.displayMenu();
+      let choice = result.toString();
+      switch (choice) {
+        case (name = "latte"):
+          obj.latte();
+          break;
+        case (name = "espresso"):
+          console.log("Welcome to Espresso");
+          break;
+        case (name = "Cappuccino"):
+          console.log("Welcome to Cappuccino");
+          break;
+        default:
+          console.log("Please enter the correct choice");
+      }
+    </script>
+  </head>
+  <body>
+    Content goes here.
+  </body>
+</html>
